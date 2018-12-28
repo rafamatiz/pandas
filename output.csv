@@ -1,0 +1,201 @@
+Field,Type,Value,information
+TYPE_OF_CDR,Integer,7,Static
+ACTIVITY_DIRECTION,Integer,2,Static
+ORIGINATE_OFFER_DATE,String,11- 2-18,Static
+ORIGINATE_OFFER_TIME,String,See more values,Dinamic
+ANSWERED_DATE,Float,nan,Static Null
+ANSWERED_TIME,Float,nan,Static Null
+DISCONNECT_DATE,Float,nan,Static Null
+DISCONNECT_TIME,Float,nan,Static Null
+REFERENCE,Float,nan,Static Null
+ASSOC_CDR_REFERENCE,Float,nan,Static Null
+ORIGINATING_NUMBER,Float,nan,Static Null
+CALLING_NUMBER_PRESENTATION,Float,nan,Static Null
+DESTINATION_NUMBER,Float,nan,Static Null
+INCOMING_TRUNK_GROUP,Float,nan,Static Null
+OUTGOING_TRUNK_GROUP,Float,nan,Static Null
+PRIMARY_OFFER_ID,Integer,See more values,Dinamic
+CLEAR_CAUSE,Integer,See more values,Dinamic
+ACTIVITY_BILLING_CODE,Float,nan,Static Null
+CDR_CALL_TYPE,Integer,52,Static
+SUBSCRIBER_ID,Integer,See more values,Dinamic
+SUBSCRIBER_NO,Integer,See more values,Dinamic
+SUBSCRIBER_NO_RESETS,Integer,0,Static
+ACCOUNT_NO,Integer,See more values,Dinamic
+PARENT_ACCOUNT_NO,Integer,See more values,Dinamic
+TARGET_BALANCE_ACCOUNT_NO,Integer,0,Static
+USER_SUBSCRIBER_NO,Integer,0,Static
+USER_SUBSCRIBER_NO_RESETS,Integer,0,Static
+TIME_ZONE,String,America/Jamaica,Static
+TOTAL_USAGE,Float,See more values,Dinamic
+USAGE_UNIT_TYPE,Integer,3,Static
+TOTAL_CURRENCY_CHARGE,Float,See more values,Dinamic
+CURRENCY_UNIT_TYPE,Integer,See more values,Dinamic
+TOTAL_NON_CURRENCY_CHARGE,Float,0.0,Static
+CALLING_PARTY_CATEGORY,Float,nan,Static Null
+ORIGINAL_CALLED_NUMBER,Float,nan,Static Null
+REDIRECTING_NUMBER,Float,nan,Static Null
+REDIRECTING_INDICATOR,Float,nan,Static Null
+ORIGINAL_REDIRECTION_REASON,Float,nan,Static Null
+REDIRECTION_COUNTER,Float,nan,Static Null
+REDIRECTING_REASON,Float,nan,Static Null
+MSRN,Float,nan,Static Null
+CELL_ID,Float,nan,Static Null
+PRE_CALL_ANNOUNCEMENT_ID,Float,nan,Static Null
+TIME1_DURATION,Float,See more values,Dinamic
+TIME2_DURATION,Float,0.0,Static
+TIME3_DURATION,Float,0.0,Static
+RECHARGE_EXP_OFFSET,Float,nan,Static Null
+RECHARGE_BATCH_NUM,Float,nan,Static Null
+RECHARGE_SERIAL_NUM,Float,nan,Static Null
+RECHARGE_FACE_VALUE,Float,nan,Static Null
+RECHARGE_RESULT_CODE,Float,nan,Static Null
+LOCATION_INDICATOR_PARTY_A,String,See more values,Dinamic
+LOCATION_INDICATOR_PARTY_B,String,10200800201@@@@@,Static
+TIME1_FIRST_TARIFF_ID,Integer,See more values,Dinamic
+TIME1_FIRST_TARIFF_CHARGE,Float,See more values,Dinamic
+TIME1_SECOND_TARIFF_ID,Integer,0,Static
+TIME1_SECOND_TARIFF_CHARGE,Float,0.0,Static
+TIME1_THIRD_TARIFF_ID,Integer,0,Static
+TIME1_THIRD_TARIFF_CHARGE,Float,0.0,Static
+TIME1_FOURTH_TARIFF_ID,Integer,0,Static
+TIME1_FOURTH_TARIFF_CHARGE,Float,0.0,Static
+TIME1_FIFTH_TARIFF_ID,Integer,0,Static
+TIME1_FIFTH_TARIFF_CHARGE,Float,0.0,Static
+TIME2_FIRST_TARIFF_ID,Integer,0,Static
+TIME2_FIRST_TARIFF_CHARGE,Float,0.0,Static
+TIME2_SECOND_TARIFF_ID,Integer,0,Static
+TIME2_SECOND_TARIFF_CHARGE,Float,0.0,Static
+TIME2_THIRD_TARIFF_ID,Integer,0,Static
+TIME2_THIRD_TARIFF_CHARGE,Float,0.0,Static
+TIME2_FOURTH_TARIFF_ID,Integer,0,Static
+TIME2_FOURTH_TARIFF_CHARGE,Float,0.0,Static
+TIME2_FIFTH_TARIFF_ID,Integer,0,Static
+TIME2_FIFTH_TARIFF_CHARGE,Float,0.0,Static
+TIME3_FIRST_TARIFF_ID,Integer,0,Static
+TIME3_FIRST_TARIFF_CHARGE,Float,0.0,Static
+TIME3_SECOND_TARIFF_ID,Integer,0,Static
+TIME3_SECOND_TARIFF_CHARGE,Float,0.0,Static
+TIME3_THIRD_TARIFF_ID,Integer,0,Static
+TIME3_THIRD_TARIFF_CHARGE,Float,0.0,Static
+TIME3_FOURTH_TARIFF_ID,Integer,0,Static
+TIME3_FOURTH_TARIFF_CHARGE,Float,0.0,Static
+TIME3_FIFTH_TARIFF_ID,Integer,0,Static
+TIME3_FIFTH_TARIFF_CHARGE,Float,0.0,Static
+CUG_CODE,Float,nan,Static Null
+SHORT_DIAL_NUMBER,Float,nan,Static Null
+APPLICATION_ID,Integer,330,Static
+APPLICATION_INITIAL_SUBTYPE,Integer,See more values,Dinamic
+AUT_INITIAL,Integer,See more values,Dinamic
+BILLING_ID,Float,nan,Static Null
+HOME_ZONE,Integer,See more values,Dinamic
+VERSION_NUMBER,Float,nan,Static Null
+MSC_ID,Float,nan,Static Null
+CELL_ID_OR_LAI,Float,nan,Static Null
+SLU_ID,Integer,2,Static
+PRE_POST_INDICATOR,Float,nan,Static Null
+TIM1_TAR1_CHG_TYPE,Float,nan,Static
+TIM1_TAR2_CHG_TYPE,Float,nan,Static Null
+TIM1_TAR3_CHG_TYPE,Float,nan,Static Null
+TIM1_TAR4_CHG_TYPE,Float,nan,Static Null
+TIM1_TAR5_CHG_TYPE,Float,nan,Static Null
+TIM2_TAR1_CHG_TYPE,Float,nan,Static Null
+TIM2_TAR2_CHG_TYPE,Float,nan,Static Null
+TIM2_TAR3_CHG_TYPE,Float,nan,Static Null
+TIM2_TAR4_CHG_TYPE,Float,nan,Static Null
+TIM2_TAR5_CHG_TYPE,Float,nan,Static Null
+TIM3_TAR1_CHG_TYPE,Float,nan,Static Null
+TIM3_TAR2_CHG_TYPE,Float,nan,Static Null
+TIM3_TAR3_CHG_TYPE,Float,nan,Static Null
+TIM3_TAR4_CHG_TYPE,Float,nan,Static Null
+TIM3_TAR5_CHG_TYPE,Float,nan,Static Null
+HLR_ID,Float,nan,Static Null
+OTHER_SYSTEM_ID,Float,nan,Static Null
+POSTPAID_ACCOUNT_NUMBER,Float,nan,Static Null
+ACCOUNT_TYPE,Float,nan,Static Null
+ORP_DATE,Float,nan,Static Null
+ORP_TIME,Float,nan,Static Null
+TOTAL_CURRENCY_CHARGE_SERVER,Float,nan,Static Null
+TOTAL_CURRENCY_CHARGE_TAX,Float,0.0,Static
+ORIGINATE_OFFER_DATETIME,Float,0.0,Static
+OR_ORIGIN,Integer,0,Static
+UTC_OFFSET,Float,nan,Static Null
+ORIGINAL_CHARGE_AMOUNT,Float,nan,Static Null
+GSM_PROVIDER_ID,Float,nan,Static Null
+MARKUP_PERCENT,Float,nan,Static Null
+ORIGINAL_CURRENCY,Float,nan,Static Null
+RECORD_SEQUENCE_NUMBER,Float,nan,Static Null
+INT_EXT_OR_IND,Float,nan,Static Null
+TIM1_TAR1_CURR_CONV,Integer,0,Static
+TIM1_TAR2_CURR_CONV,Integer,0,Static
+TIM1_TAR3_CURR_CONV,Integer,0,Static
+TIM1_TAR4_CURR_CONV,Integer,0,Static
+TIM1_TAR5_CURR_CONV,Integer,0,Static
+TIM2_TAR1_CURR_CONV,Integer,0,Static
+TIM2_TAR2_CURR_CONV,Integer,0,Static
+TIM2_TAR3_CURR_CONV,Integer,0,Static
+TIM2_TAR4_CURR_CONV,Integer,0,Static
+TIM2_TAR5_CURR_CONV,Integer,0,Static
+TIM3_TAR1_CURR_CONV,Integer,0,Static
+TIM3_TAR2_CURR_CONV,Integer,0,Static
+TIM3_TAR3_CURR_CONV,Integer,0,Static
+TIM3_TAR4_CURR_CONV,Integer,0,Static
+TIM3_TAR5_CURR_CONV,Integer,0,Static
+CURRENCY_CONV_RATE_TO_ACCT,Float,nan,Static Null
+CURRENCY_CONV_RATE_TO_SUB,Float,nan,Static Null
+CURR_TRANS_ORIG_CHARGE,Float,nan,Static Null
+CURR_TRANS_CONV_RATE,Float,nan,Static Null
+CURR_TRANS_ORIG_CURR_CODE,Float,nan,Static Null
+SUB_COS_CURR_CODE,Float,nan,Static Null
+RECHARGE_ORIG_CURR_CODE,Float,nan,Static Null
+RECHARGE_CONV_RATE,Float,nan,Static Null
+RECHARGE_CONV_FACE_VALUE,Float,nan,Static Null
+CALLING_CIRCLE_ID,Float,nan,Static Null
+USAGE_OFFER_ID,Integer,See more values,Dinamic
+USAGE_PLAN_ID,Integer,See more values,Dinamic
+AUT_FINAL,Integer,See more values,Dinamic
+TARIFF_PLAN_ID,Integer,See more values,Dinamic
+DISCOUNT_ITEM_ID,Integer,0,Static
+DISCOUNT_PLAN_OFFER_ID,Integer,0,Static
+NUMBER_OF_BALANCE,Integer,See more values,Dinamic
+BALANCE_INFO,String,See more values,Dinamic
+NUMBER_OF_ACCOUNT_BALANCE,Integer,See more values,Dinamic
+ACCOUNT_BALANCE_INFO,String,nan,Static
+NUM_OF_ACCUMULATOR,Integer,See more values,Dinamic
+ACCUMULATOR_INFO,String,See more values,Dinamic
+NUM_OF_ACCOUNT_ACCUMULATOR,Integer,0,Static
+ACCOUNT_ACCUMULATOR_INFO,Float,nan,Static Null
+NUM_OF_VERSION,Integer,0,Static
+VERSION_INFO,Float,nan,Static Null
+NUM_OF_EXTENSION,Integer,0,Static
+EXTENSION_INFO,Float,nan,Static Null
+RESELLER_ID,Integer,0,Static
+LIABILITY_REDIRECT_IND,Integer,0,Static
+SESSION_ID,String,See more values,Dinamic
+SUB_SESSION_ID,Integer,0,Static
+CHARGE_ITEM_ID,String,See more values,Dinamic
+START_TSTAMP,String,See more values,Dinamic
+START_TSTAMP_TYPE,Integer,0,Static
+END_TSTAMP,String,See more values,Dinamic
+END_TSTAMP_TYPE,Integer,0,Static
+OCS_COMMENT,String,See more values,Dinamic
+SUBSCRIBER_LOCATION,Integer,See more values,Dinamic
+SUBSCRIBER_LOCATION_TYPE,Integer,4,Static
+OTHER_LOCATION,String,GPRS_B_NUMBER,Static
+OTHER_LOCATION_TYPE,Integer,2,Static
+IMSI,Float,nan,Static Null
+ACTIVITY_TYPE,String,unitBasedCharge,Static
+DESCRIPTION,String,PS-OCS,Static
+UNCHARGED_AMOUNT_PREPAID,Float,See more values,Dinamic
+UNCHARGED_AMOUNT_POSTPAID,Float,0.0,Static
+LAST_UNIT_ROUNDING_DISCOUNT_AMOUNT_PREPAID,Float,See more values,Dinamic
+LAST_UNIT_ROUNDING_DISCOUNT_AMOUNT_POSTPAID,Float,0.0,Static
+SEGMENT_ID,Integer,1,Static
+TIME1_ID,Float,See more values,Dinamic
+TIME2_ID,Float,nan,Static Null
+TIME3_ID,Float,nan,Static Null
+TOTAL_VALUE_DISCOUNT,Float,0.0,Static
+TOTAL_CURR_VALUE_UNIT_CREDITS,Float,See more values,Dinamic
+TOTAL_PREPAID_AMT,Float,See more values,Dinamic
+TOTAL_POSTPAID_AMT,Float,nan,Static Null
+MARKET_OFFER_GROUP_ID,Integer,See more values,Dinamic
