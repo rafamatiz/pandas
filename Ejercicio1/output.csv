@@ -1,0 +1,56 @@
+0
+Structure type
+Call type
+Sensor_Type
+Sensor_ID
+Recording Office_Type
+Recording Office_ID
+Date
+Timing indicator
+Study indicator
+Called party off-hook
+Service observed / Traffic sampled
+Operator action
+Service feature code
+Calling number
+Overseas indicator
+Called number
+Time
+Length of call
+IC / INC indicator
+Carrier connect date
+Carrier connect time
+Carrier elapsed time
+IC/INC call event status
+Trunk Group Number
+IC / INC Routing Indicator
+Dialing and presubscription indicator
+ANI / CPN indicator
+Module code
+Trunk Identification_Routing Indicator
+Trunk Identification_Trunk Group Number
+Trunk Identification_Trunk Member Number
+Number identity
+Country code
+Significant digits in next field
+Number
+Cause
+Trunk Group_Trunk Group Number - Interoffice
+Trunk Group_Trunk Member Number - Interoffice
+Trunk Group_Trunk Member Number - Final
+Carrier Interface_Network Interface Description
+Remote network ID_Administrative Domain
+Remote network ID_Network Number
+Type of audit (tracer) record
+Number of calls
+Number of AMA calls
+Number of calls with lost data
+Number of AMA calls with lost AMA call data
+Number of aborted BAF records
+Number of BAF records
+Number of flagged BAF records
+Number of BAF records with timing errors
+Number of BAF records lost on block writes
+Number of originating calls
+Number of terminating calls
+Number of outgoing calls
